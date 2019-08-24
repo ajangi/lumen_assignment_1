@@ -1,4 +1,4 @@
-# QPage Back-End Coding Challenge
+# Back-End Coding Challenge
 
 Please read the following docs:
 - [Introduction to the challenge](docs/challenge.md)
