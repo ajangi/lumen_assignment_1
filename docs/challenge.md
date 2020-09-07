@@ -1,4 +1,4 @@
-# QPage Coding Challenge
+# SnappDoctor Coding Challenge
 
 Dear Candidate,
 
