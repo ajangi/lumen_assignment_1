@@ -1,4 +1,4 @@
-# SnappDoctor Coding Challenge
+# Backend Coding Challenge
 
 Dear Candidate,
 
